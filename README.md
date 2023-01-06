@@ -1,6 +1,5 @@
 ### Hi there 👋, Sara Hassan
 #### Design and Development
-Design and Development
 ![picture (1)](https://user-images.githubusercontent.com/92973686/210973471-3be609d8-ec50-4963-86f0-75cca8934058.jpg)
 Iam Sara from Afghanistan , iam learning UI&UX designing and front-end development . i really enjoy learning code as well .
 - Skills: JS / HTML / CSS 
