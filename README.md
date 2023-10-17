@@ -1,5 +1,5 @@
 ### Hi there 👋,Iam Sara Hassan
-Iam Sara from Afghanistan , iam learning UI&UX designing and front-end development . i really enjoy learning code as well .
+I am Sara from Afghanistan, I am learning UI&UX design and front-end development. I enjoy learning code as well. 
 ![picture (1)](https://user-images.githubusercontent.com/92973686/210973471-3be609d8-ec50-4963-86f0-75cca8934058.jpg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
